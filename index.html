@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Do Speech Emphasis Models Generalize across Languages and Emotions?</title>
+<meta property="og:title" content="Do Speech Emphasis Models Generalize across Languages and Emotions?" />
+<meta property="og:type" content="article" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3KVSJE6BHX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3KVSJE6BHX');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Charis+SIL:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;500;600;700&display=swap" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="progress" aria-hidden="true"></div>
+
+<header class="topbar" id="topbar">
+  <div class="topbar__title">Do Speech Emphasis Models Generalize across Languages and Emotions?</div>
+  <nav class="topbar__links">
+    <a href="https://arxiv.org/abs/2606.27717" target="_blank" rel="noopener">Paper</a>
+    <a href="#cite">Cite</a>
+  </nav>
+</header>
+
+<main>
+
+  <!-- ============================ HERO ============================ -->
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Interspeech 2026</p>
+      <h1 class="title">Do Speech Emphasis Models Generalize across Languages and Emotions?</h1>
+      <div class="meta">
+        <div class="authors">
+          Megan Wei, Deepali Aneja, Jiaqi Su, Yunyun Wang, Haonan Chen, Zeyu Jin
+        </div>
+        <div class="affil">Adobe Research · Brown University</div>
+      </div>
+
+      <div class="actions">
+        <a class="btn btn--primary" href="https://arxiv.org/abs/2606.27717" target="_blank" rel="noopener">
+          Read the paper
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================ ARTICLE ============================ -->
+  <article class="article">
+
+    <p class="lead-para">“It’s fine” and “It’s FINE” are two VERY different sentences. The latter meaning… disaster.</p>
+    <p>Speech emphasis is a subtle and deeply human aspect of communication: it’s realized in acoustics, but shaped by linguistic structure, emotion, speaker intent, and cultural context. Research on modeling it is growing, from emphasis detection and TTS prosody control to speech-to-speech translation and reasoning about user intent. Still, it remains underexplored in multilingual and emotionally expressive settings. As voice agents get deployed to a global and diverse user base, building models that interpret emphasis reliably across speakers, languages, emotions, and cultures becomes essential.</p>
+    <p>In our work, we introduce a large-scale expressive speech dataset (MMEE) and benchmark two state-of-the-art speech emphasis detection models (<a href="https://arxiv.org/abs/2312.14069" target="_blank" rel="noopener">EmphaClass</a> and <a href="https://arxiv.org/abs/2505.19103" target="_blank" rel="noopener">WhiStress</a>) across languages, emotions, dataset scales, and existing synthetic datasets.</p>
+    <p>We found:</p>
+    <ul>
+      <li>Monolingual models show limited transfer to other languages, particularly across different language families. Multilingual training largely closes the gap.</li>
+      <li>Models transfer robustly between high-arousal and low-arousal emotions.</li>
+      <li>Performance stays strong even with a fraction of the training data.</li>
+      <li>Models transfer strongly between synthetic and real data, in both directions.</li>
+    </ul>
+
+    <h2 id="dataset">Dataset</h2>
+    <p>We curated Multilingual Multi-Emotion Emphasis (MMEE): the first corpus to combine multilingual coverage, emotionally expressive speech, and graded human emphasis annotations at scale, with 10,000 utterances spanning 14.13 hours, recorded by 202 professional voice actors. The dataset covers 34 emotion and speaking style categories and 7 languages (with 10 regional varieties): English Americas (North American, Southern, African American), English Other (Indian, Australian, British), Spanish (Spain), Spanish (Latin America), Portuguese (Portugal), Portuguese (Brazil), German, French, Italian, and Mandarin Chinese.</p>
+    <p>Each utterance is annotated with graded word-level emphasis labels, aggregated across 10 annotations. We recruited fluent, native-speaking annotators on Prolific, who listened to each recording and clicked on the words they perceived as emphasized, capturing human perceptual judgment.</p>
+
+    <h2 id="experiments">Experiments</h2>
+
+    <h3 id="languages">Languages</h3>
+    <p>Monolingual performance is strong in-language (e.g., train on French, test on French) for most languages. The exception is Chinese, the one tonal language investigated here, where pitch encodes both lexical tone and prominence. Within-family transfer (e.g., Romance to Romance) is also strong, but zero-shot cross-lingual transfer degrades for more typologically distant languages (e.g., French to Chinese).</p>
+    <p>Multilingual pooled training is more robust, often matching or exceeding monolingual performance, suggesting that exposure to diverse prosodic patterns strengthens emphasis representations.</p>
+
+    <!-- FIGURE: heatmap -->
+    <figure class="wide">
+      <div class="fig-frame"><img src="assets/figures/fig_heatmap.svg" alt="Two cross-lingual train-by-test heatmaps of Pearson correlation for EmphaClass and WhiStress. A bright in-language diagonal, strong Romance and Germanic blocks, a weak Chinese row and column, and a strong multilingual all row." /></div>
+    </figure>
+
+    <h3 id="emotions">Emotions</h3>
+    <p>We constructed subsets of our dataset along the arousal dimension of the circumplex model: high arousal (excitement, happiness, pride, determination, anger, fear, anxiety, frustration, and disgust) and low arousal (calmness, relief, love/affection, hopefulness, sadness, boredom, shame, embarrassment, and contempt). High arousal speech tends to have higher pitch, greater intensity, and faster tempo, while low arousal speech tends toward lower, flatter pitch and slower, lengthened delivery. Despite these acoustic differences, both models perform strongly in-domain and transfer well across conditions, suggesting that models pick up on emphasis cues that aren’t tied to any particular emotional delivery.</p>
+
+    <!-- FIGURE: emotion (arousal) -->
+    <figure>
+      <div class="fig-frame"><img src="assets/figures/fig_arousal.svg" alt="Grouped bar chart of binary accuracy and scalar Pearson correlation across four arousal-transfer conditions for EmphaClass and WhiStress; all four conditions perform similarly." /></div>
+    </figure>
+
+    <h3 id="scale">Dataset Scale</h3>
+    <p>We varied the training data scale from 10% to 100% of MMEE, evenly distributed across the 10 language varieties. Both models benefit from more training data, with rapid initial gains that plateau thereafter. These models are data-efficient, which lowers the barrier to extending emphasis modeling to new and low-resource languages.</p>
+
+    <!-- FIGURE: dataset scale -->
+    <figure>
+      <div class="fig-frame"><img src="assets/figures/fig_scale.svg" alt="Two line charts of WhiStress and EmphaClass performance vs training-data scale; binary accuracy, F1, and scalar Pearson rise steeply early and then plateau." /></div>
+    </figure>
+
+    <h3 id="crossdataset">Cross-Dataset</h3>
+    <p>We tested whether models trained on MMEE generalize to existing English-only benchmarks built from synthetic speech (<a href="https://arxiv.org/abs/2312.14069" target="_blank" rel="noopener">EmphAssess</a> and <a href="https://arxiv.org/abs/2505.19103" target="_blank" rel="noopener">TinyStress-15K</a>), and vice versa. Despite the differences in data and annotation sources (human listeners vs scripts and LLMs), transfer is strong in both directions. This suggests that synthetic and human emphasis data capture shared prosodic structure and that inexpensive synthetic data can still be a useful training source.</p>
+
+    <!-- FIGURE: cross-dataset (table) -->
+    <div class="table-wrap">
+      <table class="compact">
+        <thead>
+          <tr><th>Transfer direction</th><th class="num">Binary accuracy</th></tr>
+        </thead>
+        <tbody>
+          <tr><th>MMEE (en) → EmphAssess</th><td class="num">0.886</td></tr>
+          <tr><th>EmphAssess → MMEE (en)</th><td class="num">0.798</td></tr>
+          <tr><th>MMEE (en) → TinyStress-15K</th><td class="num">0.873</td></tr>
+          <tr><th>TinyStress-15K → MMEE (en)</th><td class="num">0.881</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2 id="takeaways">Takeaways</h2>
+    <p>Emphasis representations in today’s speech models are partially universal; however, they degrade across typologically distant languages. Multilingual training improves robustness. Moreover, it doesn’t take too many training samples to build a strong speech emphasis model, and synthetic data transfers well. Our findings point to practical recipes (multilingual pooling, modest data sizes, synthetic bootstrapping) for building voice agents that better understand the intent of people around the world.</p>
+
+  </article>
+
+  <!-- ============================ FOOTER ============================ -->
+  <footer class="site-footer" id="cite">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <p class="footer-h">Cite this work</p>
+          <div class="cite-box" id="bibtex">@inproceedings{wei2026emphasis,
+  title     = {Do Speech Emphasis Models Generalize across Languages and Emotions?},
+  author    = {Wei, Megan and Aneja, Deepali and Su, Jiaqi and Wang, Yunyun and Chen, Haonan and Jin, Zeyu},
+  booktitle = {Interspeech},
+  year      = {2026}
+}<button class="copy-btn" id="copyBtn" type="button">Copy</button></div>
+        </div>
+
+      </div>
+      <p class="footer-meta">
+        Megan Wei, Deepali Aneja, Jiaqi Su, Yunyun Wang, Haonan Chen, Zeyu Jin.
+        Interspeech 2026.<br/>
+        “Do Speech Emphasis Models Generalize across Languages and Emotions?”
+      </p>
+    </div>
+  </footer>
+
+</main>
+
+<script src="js/main.js"></script>
+</body>
+</html>

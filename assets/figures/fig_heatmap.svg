@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="475.343544pt" version="1.1" viewBox="0 0 824.111797 475.343544" width="824.111797pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-14T16:40:36.708889</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 475.343544 
+L 824.111797 475.343544 
+L 824.111797 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 47.603203 427.740341 
+L 374.603885 427.740341 
+L 374.603885 100.739659 
+L 47.603203 100.739659 
+z
+" style="fill:none;"/>
+   </g>
+   <g clip-path="url(#p110b803f7e)">
+    <image height="327.24" id="image233534b8e6" transform="scale(1 -1)translate(0 -327.24)" width="327.24" x="47.603203" xlink:href="data:image/png;base64,
+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" y="-100.500341"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(61.220666 439.715341)rotate(-90)">de</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(84.577858 443.607138)rotate(-90)">en1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(107.935049 443.607138)rotate(-90)">en2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(131.292241 439.437607)rotate(-90)">en</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(154.649432 451.655575)rotate(-90)">es-SP</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(178.006624 454.57706)rotate(-90)">es-LAT</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(201.363815 439.018075)rotate(-90)">es</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(224.721007 451.243075)rotate(-90)">pt-BR</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(248.078199 450.13331)rotate(-90)">pt-PT</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(271.43539 438.050107)rotate(-90)">pt</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(294.792582 435.957138)rotate(-90)">fr</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(318.149773 435.268075)rotate(-90)">it</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13"/>
+     <g id="text_13">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(341.506965 439.009872)rotate(-90)">zh</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14"/>
+     <g id="text_14">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(364.864156 438.598544)rotate(-90)">all</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:500;text-anchor:middle;" transform="rotate(-0, 211.103544, 466.074716)" x="211.103544" y="466.074716">Trained on</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_16">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 115.095989)" x="44.103203" y="115.095989">de</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_17">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 138.453181)" x="44.103203" y="138.453181">en1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_18">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 161.810372)" x="44.103203" y="161.810372">en2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_19">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 185.167564)" x="44.103203" y="185.167564">en</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19"/>
+     <g id="text_20">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 208.524755)" x="44.103203" y="208.524755">es-SP</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_20"/>
+     <g id="text_21">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 231.881947)" x="44.103203" y="231.881947">es-LAT</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_21"/>
+     <g id="text_22">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 255.239139)" x="44.103203" y="255.239139">es</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_22"/>
+     <g id="text_23">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 278.59633)" x="44.103203" y="278.59633">pt-BR</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_23"/>
+     <g id="text_24">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 301.953522)" x="44.103203" y="301.953522">pt-PT</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_24"/>
+     <g id="text_25">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 325.310713)" x="44.103203" y="325.310713">pt</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_25"/>
+     <g id="text_26">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 348.667905)" x="44.103203" y="348.667905">fr</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_26"/>
+     <g id="text_27">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 372.025096)" x="44.103203" y="372.025096">it</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_27"/>
+     <g id="text_28">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 395.382288)" x="44.103203" y="395.382288">zh</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_28"/>
+     <g id="text_29">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 44.103203, 418.73948)" x="44.103203" y="418.73948">all</text>
+     </g>
+    </g>
+    <g id="text_30">
+     <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:500;text-anchor:middle;" transform="rotate(-90, 14.697656, 264.24)" x="14.697656" y="264.24">Tested on</text>
+    </g>
+   </g>
+   <g id="line2d_29">
+    <path clip-path="url(#p110b803f7e)" d="M 141.031969 427.740341 
+L 141.031969 100.739659 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_30">
+    <path clip-path="url(#p110b803f7e)" d="M 47.603203 194.168425 
+L 374.603885 194.168425 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_31">
+    <path clip-path="url(#p110b803f7e)" d="M 327.889502 427.740341 
+L 327.889502 100.739659 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_32">
+    <path clip-path="url(#p110b803f7e)" d="M 47.603203 381.025958 
+L 374.603885 381.025958 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_33">
+    <path clip-path="url(#p110b803f7e)" d="M 351.246693 427.740341 
+L 351.246693 100.739659 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_34">
+    <path clip-path="url(#p110b803f7e)" d="M 47.603203 404.383149 
+L 374.603885 404.383149 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="text_31">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 113.814239)" x="59.281799" y="113.814239">0.87</text>
+   </g>
+   <g id="text_32">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 113.814239)" x="82.63899" y="113.814239">0.64</text>
+   </g>
+   <g id="text_33">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 113.814239)" x="105.996182" y="113.814239">0.68</text>
+   </g>
+   <g id="text_34">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 113.814239)" x="129.353374" y="113.814239">0.68</text>
+   </g>
+   <g id="text_35">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 113.814239)" x="152.710565" y="113.814239">0.67</text>
+   </g>
+   <g id="text_36">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 113.814239)" x="176.067757" y="113.814239">0.73</text>
+   </g>
+   <g id="text_37">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 113.814239)" x="199.424948" y="113.814239">0.72</text>
+   </g>
+   <g id="text_38">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 113.814239)" x="222.78214" y="113.814239">0.73</text>
+   </g>
+   <g id="text_39">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 113.814239)" x="246.139331" y="113.814239">0.71</text>
+   </g>
+   <g id="text_40">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 113.814239)" x="269.496523" y="113.814239">0.73</text>
+   </g>
+   <g id="text_41">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 113.814239)" x="292.853714" y="113.814239">0.69</text>
+   </g>
+   <g id="text_42">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 113.814239)" x="316.210906" y="113.814239">0.64</text>
+   </g>
+   <g id="text_43">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 113.814239)" x="339.568098" y="113.814239">0.67</text>
+   </g>
+   <g id="text_44">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 113.814239)" x="362.925289" y="113.814239">0.87</text>
+   </g>
+   <g id="text_45">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 137.171431)" x="59.281799" y="137.171431">0.69</text>
+   </g>
+   <g id="text_46">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 137.171431)" x="82.63899" y="137.171431">0.85</text>
+   </g>
+   <g id="text_47">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 137.171431)" x="105.996182" y="137.171431">0.86</text>
+   </g>
+   <g id="text_48">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 137.171431)" x="129.353374" y="137.171431">0.87</text>
+   </g>
+   <g id="text_49">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 137.171431)" x="152.710565" y="137.171431">0.67</text>
+   </g>
+   <g id="text_50">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 137.171431)" x="176.067757" y="137.171431">0.67</text>
+   </g>
+   <g id="text_51">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 137.171431)" x="199.424948" y="137.171431">0.66</text>
+   </g>
+   <g id="text_52">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 137.171431)" x="222.78214" y="137.171431">0.68</text>
+   </g>
+   <g id="text_53">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 137.171431)" x="246.139331" y="137.171431">0.66</text>
+   </g>
+   <g id="text_54">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 137.171431)" x="269.496523" y="137.171431">0.67</text>
+   </g>
+   <g id="text_55">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 137.171431)" x="292.853714" y="137.171431">0.66</text>
+   </g>
+   <g id="text_56">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 137.171431)" x="316.210906" y="137.171431">0.63</text>
+   </g>
+   <g id="text_57">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 137.171431)" x="339.568098" y="137.171431">0.55</text>
+   </g>
+   <g id="text_58">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 137.171431)" x="362.925289" y="137.171431">0.86</text>
+   </g>
+   <g id="text_59">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 160.528622)" x="59.281799" y="160.528622">0.68</text>
+   </g>
+   <g id="text_60">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 160.528622)" x="82.63899" y="160.528622">0.85</text>
+   </g>
+   <g id="text_61">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 160.528622)" x="105.996182" y="160.528622">0.84</text>
+   </g>
+   <g id="text_62">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 160.528622)" x="129.353374" y="160.528622">0.85</text>
+   </g>
+   <g id="text_63">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 160.528622)" x="152.710565" y="160.528622">0.65</text>
+   </g>
+   <g id="text_64">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 160.528622)" x="176.067757" y="160.528622">0.66</text>
+   </g>
+   <g id="text_65">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 160.528622)" x="199.424948" y="160.528622">0.64</text>
+   </g>
+   <g id="text_66">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 160.528622)" x="222.78214" y="160.528622">0.64</text>
+   </g>
+   <g id="text_67">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 160.528622)" x="246.139331" y="160.528622">0.64</text>
+   </g>
+   <g id="text_68">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 160.528622)" x="269.496523" y="160.528622">0.64</text>
+   </g>
+   <g id="text_69">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 160.528622)" x="292.853714" y="160.528622">0.65</text>
+   </g>
+   <g id="text_70">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 160.528622)" x="316.210906" y="160.528622">0.63</text>
+   </g>
+   <g id="text_71">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 160.528622)" x="339.568098" y="160.528622">0.53</text>
+   </g>
+   <g id="text_72">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 160.528622)" x="362.925289" y="160.528622">0.85</text>
+   </g>
+   <g id="text_73">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 183.885814)" x="59.281799" y="183.885814">0.69</text>
+   </g>
+   <g id="text_74">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 183.885814)" x="82.63899" y="183.885814">0.85</text>
+   </g>
+   <g id="text_75">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 183.885814)" x="105.996182" y="183.885814">0.85</text>
+   </g>
+   <g id="text_76">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 183.885814)" x="129.353374" y="183.885814">0.86</text>
+   </g>
+   <g id="text_77">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 183.885814)" x="152.710565" y="183.885814">0.66</text>
+   </g>
+   <g id="text_78">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 183.885814)" x="176.067757" y="183.885814">0.66</text>
+   </g>
+   <g id="text_79">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 183.885814)" x="199.424948" y="183.885814">0.65</text>
+   </g>
+   <g id="text_80">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 183.885814)" x="222.78214" y="183.885814">0.66</text>
+   </g>
+   <g id="text_81">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 183.885814)" x="246.139331" y="183.885814">0.65</text>
+   </g>
+   <g id="text_82">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 183.885814)" x="269.496523" y="183.885814">0.66</text>
+   </g>
+   <g id="text_83">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 183.885814)" x="292.853714" y="183.885814">0.65</text>
+   </g>
+   <g id="text_84">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 183.885814)" x="316.210906" y="183.885814">0.63</text>
+   </g>
+   <g id="text_85">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 183.885814)" x="339.568098" y="183.885814">0.54</text>
+   </g>
+   <g id="text_86">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 183.885814)" x="362.925289" y="183.885814">0.86</text>
+   </g>
+   <g id="text_87">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 207.243005)" x="59.281799" y="207.243005">0.79</text>
+   </g>
+   <g id="text_88">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 207.243005)" x="82.63899" y="207.243005">0.67</text>
+   </g>
+   <g id="text_89">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 207.243005)" x="105.996182" y="207.243005">0.68</text>
+   </g>
+   <g id="text_90">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 207.243005)" x="129.353374" y="207.243005">0.69</text>
+   </g>
+   <g id="text_91">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 207.243005)" x="152.710565" y="207.243005">0.85</text>
+   </g>
+   <g id="text_92">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 207.243005)" x="176.067757" y="207.243005">0.85</text>
+   </g>
+   <g id="text_93">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 207.243005)" x="199.424948" y="207.243005">0.87</text>
+   </g>
+   <g id="text_94">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 207.243005)" x="222.78214" y="207.243005">0.83</text>
+   </g>
+   <g id="text_95">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 207.243005)" x="246.139331" y="207.243005">0.83</text>
+   </g>
+   <g id="text_96">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 207.243005)" x="269.496523" y="207.243005">0.84</text>
+   </g>
+   <g id="text_97">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 207.243005)" x="292.853714" y="207.243005">0.77</text>
+   </g>
+   <g id="text_98">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 207.243005)" x="316.210906" y="207.243005">0.75</text>
+   </g>
+   <g id="text_99">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 207.243005)" x="339.568098" y="207.243005">0.69</text>
+   </g>
+   <g id="text_100">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 207.243005)" x="362.925289" y="207.243005">0.86</text>
+   </g>
+   <g id="text_101">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 230.600197)" x="59.281799" y="230.600197">0.79</text>
+   </g>
+   <g id="text_102">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 230.600197)" x="82.63899" y="230.600197">0.67</text>
+   </g>
+   <g id="text_103">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 230.600197)" x="105.996182" y="230.600197">0.69</text>
+   </g>
+   <g id="text_104">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 230.600197)" x="129.353374" y="230.600197">0.69</text>
+   </g>
+   <g id="text_105">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 230.600197)" x="152.710565" y="230.600197">0.86</text>
+   </g>
+   <g id="text_106">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 230.600197)" x="176.067757" y="230.600197">0.87</text>
+   </g>
+   <g id="text_107">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 230.600197)" x="199.424948" y="230.600197">0.87</text>
+   </g>
+   <g id="text_108">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 230.600197)" x="222.78214" y="230.600197">0.83</text>
+   </g>
+   <g id="text_109">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 230.600197)" x="246.139331" y="230.600197">0.84</text>
+   </g>
+   <g id="text_110">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 230.600197)" x="269.496523" y="230.600197">0.84</text>
+   </g>
+   <g id="text_111">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 230.600197)" x="292.853714" y="230.600197">0.75</text>
+   </g>
+   <g id="text_112">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 230.600197)" x="316.210906" y="230.600197">0.75</text>
+   </g>
+   <g id="text_113">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 230.600197)" x="339.568098" y="230.600197">0.69</text>
+   </g>
+   <g id="text_114">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 230.600197)" x="362.925289" y="230.600197">0.87</text>
+   </g>
+   <g id="text_115">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 253.957389)" x="59.281799" y="253.957389">0.79</text>
+   </g>
+   <g id="text_116">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 253.957389)" x="82.63899" y="253.957389">0.67</text>
+   </g>
+   <g id="text_117">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 253.957389)" x="105.996182" y="253.957389">0.69</text>
+   </g>
+   <g id="text_118">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 253.957389)" x="129.353374" y="253.957389">0.69</text>
+   </g>
+   <g id="text_119">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 253.957389)" x="152.710565" y="253.957389">0.86</text>
+   </g>
+   <g id="text_120">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 253.957389)" x="176.067757" y="253.957389">0.86</text>
+   </g>
+   <g id="text_121">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 253.957389)" x="199.424948" y="253.957389">0.87</text>
+   </g>
+   <g id="text_122">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 253.957389)" x="222.78214" y="253.957389">0.83</text>
+   </g>
+   <g id="text_123">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 253.957389)" x="246.139331" y="253.957389">0.84</text>
+   </g>
+   <g id="text_124">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 253.957389)" x="269.496523" y="253.957389">0.84</text>
+   </g>
+   <g id="text_125">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 253.957389)" x="292.853714" y="253.957389">0.76</text>
+   </g>
+   <g id="text_126">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 253.957389)" x="316.210906" y="253.957389">0.75</text>
+   </g>
+   <g id="text_127">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 253.957389)" x="339.568098" y="253.957389">0.69</text>
+   </g>
+   <g id="text_128">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 253.957389)" x="362.925289" y="253.957389">0.87</text>
+   </g>
+   <g id="text_129">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 277.31458)" x="59.281799" y="277.31458">0.76</text>
+   </g>
+   <g id="text_130">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 277.31458)" x="82.63899" y="277.31458">0.64</text>
+   </g>
+   <g id="text_131">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 277.31458)" x="105.996182" y="277.31458">0.64</text>
+   </g>
+   <g id="text_132">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 277.31458)" x="129.353374" y="277.31458">0.66</text>
+   </g>
+   <g id="text_133">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 277.31458)" x="152.710565" y="277.31458">0.82</text>
+   </g>
+   <g id="text_134">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 277.31458)" x="176.067757" y="277.31458">0.83</text>
+   </g>
+   <g id="text_135">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 277.31458)" x="199.424948" y="277.31458">0.84</text>
+   </g>
+   <g id="text_136">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 277.31458)" x="222.78214" y="277.31458">0.88</text>
+   </g>
+   <g id="text_137">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 277.31458)" x="246.139331" y="277.31458">0.87</text>
+   </g>
+   <g id="text_138">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 277.31458)" x="269.496523" y="277.31458">0.89</text>
+   </g>
+   <g id="text_139">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 277.31458)" x="292.853714" y="277.31458">0.77</text>
+   </g>
+   <g id="text_140">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 277.31458)" x="316.210906" y="277.31458">0.75</text>
+   </g>
+   <g id="text_141">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 277.31458)" x="339.568098" y="277.31458">0.72</text>
+   </g>
+   <g id="text_142">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 277.31458)" x="362.925289" y="277.31458">0.88</text>
+   </g>
+   <g id="text_143">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 300.671772)" x="59.281799" y="300.671772">0.72</text>
+   </g>
+   <g id="text_144">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 300.671772)" x="82.63899" y="300.671772">0.62</text>
+   </g>
+   <g id="text_145">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 300.671772)" x="105.996182" y="300.671772">0.65</text>
+   </g>
+   <g id="text_146">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 300.671772)" x="129.353374" y="300.671772">0.65</text>
+   </g>
+   <g id="text_147">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 300.671772)" x="152.710565" y="300.671772">0.82</text>
+   </g>
+   <g id="text_148">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 300.671772)" x="176.067757" y="300.671772">0.82</text>
+   </g>
+   <g id="text_149">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 300.671772)" x="199.424948" y="300.671772">0.83</text>
+   </g>
+   <g id="text_150">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 300.671772)" x="222.78214" y="300.671772">0.86</text>
+   </g>
+   <g id="text_151">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 300.671772)" x="246.139331" y="300.671772">0.86</text>
+   </g>
+   <g id="text_152">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 300.671772)" x="269.496523" y="300.671772">0.87</text>
+   </g>
+   <g id="text_153">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 300.671772)" x="292.853714" y="300.671772">0.76</text>
+   </g>
+   <g id="text_154">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 300.671772)" x="316.210906" y="300.671772">0.71</text>
+   </g>
+   <g id="text_155">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 300.671772)" x="339.568098" y="300.671772">0.67</text>
+   </g>
+   <g id="text_156">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 300.671772)" x="362.925289" y="300.671772">0.87</text>
+   </g>
+   <g id="text_157">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 324.028963)" x="59.281799" y="324.028963">0.74</text>
+   </g>
+   <g id="text_158">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 324.028963)" x="82.63899" y="324.028963">0.63</text>
+   </g>
+   <g id="text_159">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 324.028963)" x="105.996182" y="324.028963">0.64</text>
+   </g>
+   <g id="text_160">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 324.028963)" x="129.353374" y="324.028963">0.65</text>
+   </g>
+   <g id="text_161">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 324.028963)" x="152.710565" y="324.028963">0.82</text>
+   </g>
+   <g id="text_162">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 324.028963)" x="176.067757" y="324.028963">0.82</text>
+   </g>
+   <g id="text_163">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 324.028963)" x="199.424948" y="324.028963">0.83</text>
+   </g>
+   <g id="text_164">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 324.028963)" x="222.78214" y="324.028963">0.87</text>
+   </g>
+   <g id="text_165">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 324.028963)" x="246.139331" y="324.028963">0.87</text>
+   </g>
+   <g id="text_166">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 324.028963)" x="269.496523" y="324.028963">0.88</text>
+   </g>
+   <g id="text_167">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 324.028963)" x="292.853714" y="324.028963">0.77</text>
+   </g>
+   <g id="text_168">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 324.028963)" x="316.210906" y="324.028963">0.73</text>
+   </g>
+   <g id="text_169">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 324.028963)" x="339.568098" y="324.028963">0.69</text>
+   </g>
+   <g id="text_170">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 324.028963)" x="362.925289" y="324.028963">0.87</text>
+   </g>
+   <g id="text_171">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 347.386155)" x="59.281799" y="347.386155">0.80</text>
+   </g>
+   <g id="text_172">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 347.386155)" x="82.63899" y="347.386155">0.64</text>
+   </g>
+   <g id="text_173">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 347.386155)" x="105.996182" y="347.386155">0.65</text>
+   </g>
+   <g id="text_174">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 347.386155)" x="129.353374" y="347.386155">0.65</text>
+   </g>
+   <g id="text_175">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 347.386155)" x="152.710565" y="347.386155">0.77</text>
+   </g>
+   <g id="text_176">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 347.386155)" x="176.067757" y="347.386155">0.79</text>
+   </g>
+   <g id="text_177">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 347.386155)" x="199.424948" y="347.386155">0.79</text>
+   </g>
+   <g id="text_178">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 347.386155)" x="222.78214" y="347.386155">0.80</text>
+   </g>
+   <g id="text_179">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 347.386155)" x="246.139331" y="347.386155">0.80</text>
+   </g>
+   <g id="text_180">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 347.386155)" x="269.496523" y="347.386155">0.82</text>
+   </g>
+   <g id="text_181">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 347.386155)" x="292.853714" y="347.386155">0.85</text>
+   </g>
+   <g id="text_182">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 347.386155)" x="316.210906" y="347.386155">0.69</text>
+   </g>
+   <g id="text_183">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 347.386155)" x="339.568098" y="347.386155">0.73</text>
+   </g>
+   <g id="text_184">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 347.386155)" x="362.925289" y="347.386155">0.86</text>
+   </g>
+   <g id="text_185">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 370.743346)" x="59.281799" y="370.743346">0.71</text>
+   </g>
+   <g id="text_186">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 370.743346)" x="82.63899" y="370.743346">0.65</text>
+   </g>
+   <g id="text_187">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 370.743346)" x="105.996182" y="370.743346">0.65</text>
+   </g>
+   <g id="text_188">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 370.743346)" x="129.353374" y="370.743346">0.66</text>
+   </g>
+   <g id="text_189">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 370.743346)" x="152.710565" y="370.743346">0.77</text>
+   </g>
+   <g id="text_190">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 370.743346)" x="176.067757" y="370.743346">0.78</text>
+   </g>
+   <g id="text_191">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 370.743346)" x="199.424948" y="370.743346">0.79</text>
+   </g>
+   <g id="text_192">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 370.743346)" x="222.78214" y="370.743346">0.77</text>
+   </g>
+   <g id="text_193">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 370.743346)" x="246.139331" y="370.743346">0.77</text>
+   </g>
+   <g id="text_194">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 370.743346)" x="269.496523" y="370.743346">0.77</text>
+   </g>
+   <g id="text_195">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 370.743346)" x="292.853714" y="370.743346">0.72</text>
+   </g>
+   <g id="text_196">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 370.743346)" x="316.210906" y="370.743346">0.84</text>
+   </g>
+   <g id="text_197">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 370.743346)" x="339.568098" y="370.743346">0.62</text>
+   </g>
+   <g id="text_198">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 370.743346)" x="362.925289" y="370.743346">0.85</text>
+   </g>
+   <g id="text_199">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 394.100538)" x="59.281799" y="394.100538">0.63</text>
+   </g>
+   <g id="text_200">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 394.100538)" x="82.63899" y="394.100538">0.51</text>
+   </g>
+   <g id="text_201">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 394.100538)" x="105.996182" y="394.100538">0.53</text>
+   </g>
+   <g id="text_202">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 394.100538)" x="129.353374" y="394.100538">0.54</text>
+   </g>
+   <g id="text_203">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 394.100538)" x="152.710565" y="394.100538">0.60</text>
+   </g>
+   <g id="text_204">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 394.100538)" x="176.067757" y="394.100538">0.63</text>
+   </g>
+   <g id="text_205">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 394.100538)" x="199.424948" y="394.100538">0.63</text>
+   </g>
+   <g id="text_206">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 394.100538)" x="222.78214" y="394.100538">0.66</text>
+   </g>
+   <g id="text_207">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 394.100538)" x="246.139331" y="394.100538">0.63</text>
+   </g>
+   <g id="text_208">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 394.100538)" x="269.496523" y="394.100538">0.66</text>
+   </g>
+   <g id="text_209">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 394.100538)" x="292.853714" y="394.100538">0.63</text>
+   </g>
+   <g id="text_210">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 394.100538)" x="316.210906" y="394.100538">0.55</text>
+   </g>
+   <g id="text_211">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 394.100538)" x="339.568098" y="394.100538">0.80</text>
+   </g>
+   <g id="text_212">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 394.100538)" x="362.925289" y="394.100538">0.79</text>
+   </g>
+   <g id="text_213">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 59.281799, 417.45773)" x="59.281799" y="417.45773">0.74</text>
+   </g>
+   <g id="text_214">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.63899, 417.45773)" x="82.63899" y="417.45773">0.67</text>
+   </g>
+   <g id="text_215">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 105.996182, 417.45773)" x="105.996182" y="417.45773">0.68</text>
+   </g>
+   <g id="text_216">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.353374, 417.45773)" x="129.353374" y="417.45773">0.69</text>
+   </g>
+   <g id="text_217">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 152.710565, 417.45773)" x="152.710565" y="417.45773">0.74</text>
+   </g>
+   <g id="text_218">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 176.067757, 417.45773)" x="176.067757" y="417.45773">0.76</text>
+   </g>
+   <g id="text_219">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 199.424948, 417.45773)" x="199.424948" y="417.45773">0.76</text>
+   </g>
+   <g id="text_220">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.78214, 417.45773)" x="222.78214" y="417.45773">0.76</text>
+   </g>
+   <g id="text_221">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.139331, 417.45773)" x="246.139331" y="417.45773">0.76</text>
+   </g>
+   <g id="text_222">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 269.496523, 417.45773)" x="269.496523" y="417.45773">0.77</text>
+   </g>
+   <g id="text_223">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.853714, 417.45773)" x="292.853714" y="417.45773">0.72</text>
+   </g>
+   <g id="text_224">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 316.210906, 417.45773)" x="316.210906" y="417.45773">0.69</text>
+   </g>
+   <g id="text_225">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 339.568098, 417.45773)" x="339.568098" y="417.45773">0.65</text>
+   </g>
+   <g id="text_226">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 362.925289, 417.45773)" x="362.925289" y="417.45773">0.86</text>
+   </g>
+   <g id="text_227">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:13px;font-stretch:normal;font-style:normal;font-weight:600;text-anchor:middle;" transform="rotate(-0, 211.103544, 92.739659)" x="211.103544" y="92.739659">EmphaClass</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 440.004021 427.740341 
+L 767.004703 427.740341 
+L 767.004703 100.739659 
+L 440.004021 100.739659 
+z
+" style="fill:none;"/>
+   </g>
+   <g clip-path="url(#pb90411ae8c)">
+    <image height="327.24" id="image2c526d4f66" transform="scale(1 -1)translate(0 -327.24)" width="327.24" x="440.004021" xlink:href="data:image/png;base64,
+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" y="-100.500341"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_15">
+     <g id="line2d_35"/>
+     <g id="text_228">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(453.621484 439.715341)rotate(-90)">de</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_36"/>
+     <g id="text_229">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(476.978676 443.607138)rotate(-90)">en1</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_37"/>
+     <g id="text_230">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(500.335867 443.607138)rotate(-90)">en2</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_38"/>
+     <g id="text_231">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(523.693059 439.437607)rotate(-90)">en</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_39"/>
+     <g id="text_232">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(547.050251 451.655575)rotate(-90)">es-SP</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_40"/>
+     <g id="text_233">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(570.407442 454.57706)rotate(-90)">es-LAT</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_41"/>
+     <g id="text_234">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(593.764634 439.018075)rotate(-90)">es</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_42"/>
+     <g id="text_235">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(617.121825 451.243075)rotate(-90)">pt-BR</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_43"/>
+     <g id="text_236">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(640.479017 450.13331)rotate(-90)">pt-PT</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_44"/>
+     <g id="text_237">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(663.836208 438.050107)rotate(-90)">pt</text>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_45"/>
+     <g id="text_238">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(687.1934 435.957138)rotate(-90)">fr</text>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_46"/>
+     <g id="text_239">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(710.550591 435.268075)rotate(-90)">it</text>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_47"/>
+     <g id="text_240">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(733.907783 439.009872)rotate(-90)">zh</text>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_48"/>
+     <g id="text_241">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(757.264975 438.598544)rotate(-90)">all</text>
+     </g>
+    </g>
+    <g id="text_242">
+     <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:500;text-anchor:middle;" transform="rotate(-0, 603.504362, 466.074716)" x="603.504362" y="466.074716">Trained on</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_15">
+     <g id="line2d_49"/>
+     <g id="text_243">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 115.095989)" x="436.504021" y="115.095989">de</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_50"/>
+     <g id="text_244">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 138.453181)" x="436.504021" y="138.453181">en1</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_51"/>
+     <g id="text_245">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 161.810372)" x="436.504021" y="161.810372">en2</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_52"/>
+     <g id="text_246">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 185.167564)" x="436.504021" y="185.167564">en</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_53"/>
+     <g id="text_247">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 208.524755)" x="436.504021" y="208.524755">es-SP</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_54"/>
+     <g id="text_248">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 231.881947)" x="436.504021" y="231.881947">es-LAT</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_55"/>
+     <g id="text_249">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 255.239139)" x="436.504021" y="255.239139">es</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_56"/>
+     <g id="text_250">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 278.59633)" x="436.504021" y="278.59633">pt-BR</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_57"/>
+     <g id="text_251">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 301.953522)" x="436.504021" y="301.953522">pt-PT</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_58"/>
+     <g id="text_252">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 325.310713)" x="436.504021" y="325.310713">pt</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_59"/>
+     <g id="text_253">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 348.667905)" x="436.504021" y="348.667905">fr</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_60"/>
+     <g id="text_254">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 372.025096)" x="436.504021" y="372.025096">it</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_61"/>
+     <g id="text_255">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 395.382288)" x="436.504021" y="395.382288">zh</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_62"/>
+     <g id="text_256">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 436.504021, 418.73948)" x="436.504021" y="418.73948">all</text>
+     </g>
+    </g>
+    <g id="text_257">
+     <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:500;text-anchor:middle;" transform="rotate(-90, 407.098474, 264.24)" x="407.098474" y="264.24">Tested on</text>
+    </g>
+   </g>
+   <g id="line2d_63">
+    <path clip-path="url(#pb90411ae8c)" d="M 533.432788 427.740341 
+L 533.432788 100.739659 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_64">
+    <path clip-path="url(#pb90411ae8c)" d="M 440.004021 194.168425 
+L 767.004703 194.168425 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_65">
+    <path clip-path="url(#pb90411ae8c)" d="M 720.29032 427.740341 
+L 720.29032 100.739659 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_66">
+    <path clip-path="url(#pb90411ae8c)" d="M 440.004021 381.025958 
+L 767.004703 381.025958 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_67">
+    <path clip-path="url(#pb90411ae8c)" d="M 743.647512 427.740341 
+L 743.647512 100.739659 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="line2d_68">
+    <path clip-path="url(#pb90411ae8c)" d="M 440.004021 404.383149 
+L 767.004703 404.383149 
+" style="fill:none;stroke:#f5f7fa;stroke-linecap:square;stroke-width:2.2;"/>
+   </g>
+   <g id="text_258">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 113.814239)" x="451.682617" y="113.814239">0.84</text>
+   </g>
+   <g id="text_259">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 113.814239)" x="475.039809" y="113.814239">0.71</text>
+   </g>
+   <g id="text_260">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 113.814239)" x="498.397" y="113.814239">0.79</text>
+   </g>
+   <g id="text_261">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 113.814239)" x="521.754192" y="113.814239">0.79</text>
+   </g>
+   <g id="text_262">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 113.814239)" x="545.111383" y="113.814239">0.74</text>
+   </g>
+   <g id="text_263">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 113.814239)" x="568.468575" y="113.814239">0.76</text>
+   </g>
+   <g id="text_264">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 113.814239)" x="591.825766" y="113.814239">0.82</text>
+   </g>
+   <g id="text_265">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 113.814239)" x="615.182958" y="113.814239">0.78</text>
+   </g>
+   <g id="text_266">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 113.814239)" x="638.54015" y="113.814239">0.80</text>
+   </g>
+   <g id="text_267">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 113.814239)" x="661.897341" y="113.814239">0.82</text>
+   </g>
+   <g id="text_268">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 113.814239)" x="685.254533" y="113.814239">0.81</text>
+   </g>
+   <g id="text_269">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 113.814239)" x="708.611724" y="113.814239">0.75</text>
+   </g>
+   <g id="text_270">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 113.814239)" x="731.968916" y="113.814239">0.55</text>
+   </g>
+   <g id="text_271">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 113.814239)" x="755.326107" y="113.814239">0.87</text>
+   </g>
+   <g id="text_272">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 137.171431)" x="451.682617" y="137.171431">0.85</text>
+   </g>
+   <g id="text_273">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 137.171431)" x="475.039809" y="137.171431">0.77</text>
+   </g>
+   <g id="text_274">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 137.171431)" x="498.397" y="137.171431">0.90</text>
+   </g>
+   <g id="text_275">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 137.171431)" x="521.754192" y="137.171431">0.91</text>
+   </g>
+   <g id="text_276">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 137.171431)" x="545.111383" y="137.171431">0.72</text>
+   </g>
+   <g id="text_277">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 137.171431)" x="568.468575" y="137.171431">0.80</text>
+   </g>
+   <g id="text_278">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 137.171431)" x="591.825766" y="137.171431">0.88</text>
+   </g>
+   <g id="text_279">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 137.171431)" x="615.182958" y="137.171431">0.83</text>
+   </g>
+   <g id="text_280">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 137.171431)" x="638.54015" y="137.171431">0.84</text>
+   </g>
+   <g id="text_281">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 137.171431)" x="661.897341" y="137.171431">0.85</text>
+   </g>
+   <g id="text_282">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 137.171431)" x="685.254533" y="137.171431">0.86</text>
+   </g>
+   <g id="text_283">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 137.171431)" x="708.611724" y="137.171431">0.75</text>
+   </g>
+   <g id="text_284">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 137.171431)" x="731.968916" y="137.171431">0.57</text>
+   </g>
+   <g id="text_285">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 137.171431)" x="755.326107" y="137.171431">0.92</text>
+   </g>
+   <g id="text_286">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 160.528622)" x="451.682617" y="160.528622">0.82</text>
+   </g>
+   <g id="text_287">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 160.528622)" x="475.039809" y="160.528622">0.74</text>
+   </g>
+   <g id="text_288">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 160.528622)" x="498.397" y="160.528622">0.86</text>
+   </g>
+   <g id="text_289">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 160.528622)" x="521.754192" y="160.528622">0.87</text>
+   </g>
+   <g id="text_290">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 160.528622)" x="545.111383" y="160.528622">0.69</text>
+   </g>
+   <g id="text_291">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 160.528622)" x="568.468575" y="160.528622">0.77</text>
+   </g>
+   <g id="text_292">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 160.528622)" x="591.825766" y="160.528622">0.85</text>
+   </g>
+   <g id="text_293">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 160.528622)" x="615.182958" y="160.528622">0.78</text>
+   </g>
+   <g id="text_294">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 160.528622)" x="638.54015" y="160.528622">0.80</text>
+   </g>
+   <g id="text_295">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 160.528622)" x="661.897341" y="160.528622">0.82</text>
+   </g>
+   <g id="text_296">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 160.528622)" x="685.254533" y="160.528622">0.81</text>
+   </g>
+   <g id="text_297">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 160.528622)" x="708.611724" y="160.528622">0.70</text>
+   </g>
+   <g id="text_298">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 160.528622)" x="731.968916" y="160.528622">0.53</text>
+   </g>
+   <g id="text_299">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 160.528622)" x="755.326107" y="160.528622">0.89</text>
+   </g>
+   <g id="text_300">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 183.885814)" x="451.682617" y="183.885814">0.83</text>
+   </g>
+   <g id="text_301">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 183.885814)" x="475.039809" y="183.885814">0.75</text>
+   </g>
+   <g id="text_302">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 183.885814)" x="498.397" y="183.885814">0.88</text>
+   </g>
+   <g id="text_303">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 183.885814)" x="521.754192" y="183.885814">0.89</text>
+   </g>
+   <g id="text_304">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 183.885814)" x="545.111383" y="183.885814">0.70</text>
+   </g>
+   <g id="text_305">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 183.885814)" x="568.468575" y="183.885814">0.79</text>
+   </g>
+   <g id="text_306">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 183.885814)" x="591.825766" y="183.885814">0.86</text>
+   </g>
+   <g id="text_307">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 183.885814)" x="615.182958" y="183.885814">0.81</text>
+   </g>
+   <g id="text_308">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 183.885814)" x="638.54015" y="183.885814">0.82</text>
+   </g>
+   <g id="text_309">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 183.885814)" x="661.897341" y="183.885814">0.84</text>
+   </g>
+   <g id="text_310">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 183.885814)" x="685.254533" y="183.885814">0.84</text>
+   </g>
+   <g id="text_311">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 183.885814)" x="708.611724" y="183.885814">0.72</text>
+   </g>
+   <g id="text_312">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 183.885814)" x="731.968916" y="183.885814">0.55</text>
+   </g>
+   <g id="text_313">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 183.885814)" x="755.326107" y="183.885814">0.91</text>
+   </g>
+   <g id="text_314">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 207.243005)" x="451.682617" y="207.243005">0.79</text>
+   </g>
+   <g id="text_315">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 207.243005)" x="475.039809" y="207.243005">0.68</text>
+   </g>
+   <g id="text_316">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 207.243005)" x="498.397" y="207.243005">0.79</text>
+   </g>
+   <g id="text_317">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 207.243005)" x="521.754192" y="207.243005">0.79</text>
+   </g>
+   <g id="text_318">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 207.243005)" x="545.111383" y="207.243005">0.71</text>
+   </g>
+   <g id="text_319">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 207.243005)" x="568.468575" y="207.243005">0.75</text>
+   </g>
+   <g id="text_320">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 207.243005)" x="591.825766" y="207.243005">0.85</text>
+   </g>
+   <g id="text_321">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 207.243005)" x="615.182958" y="207.243005">0.77</text>
+   </g>
+   <g id="text_322">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 207.243005)" x="638.54015" y="207.243005">0.80</text>
+   </g>
+   <g id="text_323">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 207.243005)" x="661.897341" y="207.243005">0.83</text>
+   </g>
+   <g id="text_324">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 207.243005)" x="685.254533" y="207.243005">0.81</text>
+   </g>
+   <g id="text_325">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 207.243005)" x="708.611724" y="207.243005">0.75</text>
+   </g>
+   <g id="text_326">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 207.243005)" x="731.968916" y="207.243005">0.52</text>
+   </g>
+   <g id="text_327">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 207.243005)" x="755.326107" y="207.243005">0.86</text>
+   </g>
+   <g id="text_328">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 230.600197)" x="451.682617" y="230.600197">0.76</text>
+   </g>
+   <g id="text_329">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 230.600197)" x="475.039809" y="230.600197">0.65</text>
+   </g>
+   <g id="text_330">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 230.600197)" x="498.397" y="230.600197">0.76</text>
+   </g>
+   <g id="text_331">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 230.600197)" x="521.754192" y="230.600197">0.77</text>
+   </g>
+   <g id="text_332">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 230.600197)" x="545.111383" y="230.600197">0.67</text>
+   </g>
+   <g id="text_333">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 230.600197)" x="568.468575" y="230.600197">0.72</text>
+   </g>
+   <g id="text_334">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 230.600197)" x="591.825766" y="230.600197">0.85</text>
+   </g>
+   <g id="text_335">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 230.600197)" x="615.182958" y="230.600197">0.73</text>
+   </g>
+   <g id="text_336">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 230.600197)" x="638.54015" y="230.600197">0.77</text>
+   </g>
+   <g id="text_337">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 230.600197)" x="661.897341" y="230.600197">0.83</text>
+   </g>
+   <g id="text_338">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 230.600197)" x="685.254533" y="230.600197">0.76</text>
+   </g>
+   <g id="text_339">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 230.600197)" x="708.611724" y="230.600197">0.69</text>
+   </g>
+   <g id="text_340">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 230.600197)" x="731.968916" y="230.600197">0.51</text>
+   </g>
+   <g id="text_341">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 230.600197)" x="755.326107" y="230.600197">0.86</text>
+   </g>
+   <g id="text_342">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 253.957389)" x="451.682617" y="253.957389">0.77</text>
+   </g>
+   <g id="text_343">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 253.957389)" x="475.039809" y="253.957389">0.67</text>
+   </g>
+   <g id="text_344">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 253.957389)" x="498.397" y="253.957389">0.78</text>
+   </g>
+   <g id="text_345">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 253.957389)" x="521.754192" y="253.957389">0.78</text>
+   </g>
+   <g id="text_346">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 253.957389)" x="545.111383" y="253.957389">0.69</text>
+   </g>
+   <g id="text_347">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 253.957389)" x="568.468575" y="253.957389">0.73</text>
+   </g>
+   <g id="text_348">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 253.957389)" x="591.825766" y="253.957389">0.85</text>
+   </g>
+   <g id="text_349">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 253.957389)" x="615.182958" y="253.957389">0.75</text>
+   </g>
+   <g id="text_350">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 253.957389)" x="638.54015" y="253.957389">0.78</text>
+   </g>
+   <g id="text_351">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 253.957389)" x="661.897341" y="253.957389">0.83</text>
+   </g>
+   <g id="text_352">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 253.957389)" x="685.254533" y="253.957389">0.78</text>
+   </g>
+   <g id="text_353">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 253.957389)" x="708.611724" y="253.957389">0.72</text>
+   </g>
+   <g id="text_354">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 253.957389)" x="731.968916" y="253.957389">0.52</text>
+   </g>
+   <g id="text_355">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 253.957389)" x="755.326107" y="253.957389">0.86</text>
+   </g>
+   <g id="text_356">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 277.31458)" x="451.682617" y="277.31458">0.79</text>
+   </g>
+   <g id="text_357">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 277.31458)" x="475.039809" y="277.31458">0.66</text>
+   </g>
+   <g id="text_358">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 277.31458)" x="498.397" y="277.31458">0.78</text>
+   </g>
+   <g id="text_359">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 277.31458)" x="521.754192" y="277.31458">0.79</text>
+   </g>
+   <g id="text_360">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 277.31458)" x="545.111383" y="277.31458">0.71</text>
+   </g>
+   <g id="text_361">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 277.31458)" x="568.468575" y="277.31458">0.74</text>
+   </g>
+   <g id="text_362">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 277.31458)" x="591.825766" y="277.31458">0.86</text>
+   </g>
+   <g id="text_363">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 277.31458)" x="615.182958" y="277.31458">0.79</text>
+   </g>
+   <g id="text_364">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 277.31458)" x="638.54015" y="277.31458">0.80</text>
+   </g>
+   <g id="text_365">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 277.31458)" x="661.897341" y="277.31458">0.87</text>
+   </g>
+   <g id="text_366">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 277.31458)" x="685.254533" y="277.31458">0.81</text>
+   </g>
+   <g id="text_367">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 277.31458)" x="708.611724" y="277.31458">0.75</text>
+   </g>
+   <g id="text_368">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 277.31458)" x="731.968916" y="277.31458">0.54</text>
+   </g>
+   <g id="text_369">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 277.31458)" x="755.326107" y="277.31458">0.89</text>
+   </g>
+   <g id="text_370">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 300.671772)" x="451.682617" y="300.671772">0.75</text>
+   </g>
+   <g id="text_371">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 300.671772)" x="475.039809" y="300.671772">0.65</text>
+   </g>
+   <g id="text_372">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 300.671772)" x="498.397" y="300.671772">0.75</text>
+   </g>
+   <g id="text_373">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 300.671772)" x="521.754192" y="300.671772">0.76</text>
+   </g>
+   <g id="text_374">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 300.671772)" x="545.111383" y="300.671772">0.65</text>
+   </g>
+   <g id="text_375">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 300.671772)" x="568.468575" y="300.671772">0.71</text>
+   </g>
+   <g id="text_376">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 300.671772)" x="591.825766" y="300.671772">0.83</text>
+   </g>
+   <g id="text_377">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 300.671772)" x="615.182958" y="300.671772">0.74</text>
+   </g>
+   <g id="text_378">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 300.671772)" x="638.54015" y="300.671772">0.78</text>
+   </g>
+   <g id="text_379">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 300.671772)" x="661.897341" y="300.671772">0.83</text>
+   </g>
+   <g id="text_380">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 300.671772)" x="685.254533" y="300.671772">0.78</text>
+   </g>
+   <g id="text_381">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 300.671772)" x="708.611724" y="300.671772">0.71</text>
+   </g>
+   <g id="text_382">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 300.671772)" x="731.968916" y="300.671772">0.53</text>
+   </g>
+   <g id="text_383">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 300.671772)" x="755.326107" y="300.671772">0.87</text>
+   </g>
+   <g id="text_384">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 324.028963)" x="451.682617" y="324.028963">0.77</text>
+   </g>
+   <g id="text_385">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 324.028963)" x="475.039809" y="324.028963">0.65</text>
+   </g>
+   <g id="text_386">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 324.028963)" x="498.397" y="324.028963">0.77</text>
+   </g>
+   <g id="text_387">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 324.028963)" x="521.754192" y="324.028963">0.78</text>
+   </g>
+   <g id="text_388">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 324.028963)" x="545.111383" y="324.028963">0.68</text>
+   </g>
+   <g id="text_389">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 324.028963)" x="568.468575" y="324.028963">0.72</text>
+   </g>
+   <g id="text_390">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 324.028963)" x="591.825766" y="324.028963">0.84</text>
+   </g>
+   <g id="text_391">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 324.028963)" x="615.182958" y="324.028963">0.76</text>
+   </g>
+   <g id="text_392">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 324.028963)" x="638.54015" y="324.028963">0.79</text>
+   </g>
+   <g id="text_393">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 324.028963)" x="661.897341" y="324.028963">0.85</text>
+   </g>
+   <g id="text_394">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 324.028963)" x="685.254533" y="324.028963">0.79</text>
+   </g>
+   <g id="text_395">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 324.028963)" x="708.611724" y="324.028963">0.73</text>
+   </g>
+   <g id="text_396">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 324.028963)" x="731.968916" y="324.028963">0.53</text>
+   </g>
+   <g id="text_397">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 324.028963)" x="755.326107" y="324.028963">0.88</text>
+   </g>
+   <g id="text_398">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 347.386155)" x="451.682617" y="347.386155">0.76</text>
+   </g>
+   <g id="text_399">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 347.386155)" x="475.039809" y="347.386155">0.65</text>
+   </g>
+   <g id="text_400">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 347.386155)" x="498.397" y="347.386155">0.76</text>
+   </g>
+   <g id="text_401">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 347.386155)" x="521.754192" y="347.386155">0.76</text>
+   </g>
+   <g id="text_402">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 347.386155)" x="545.111383" y="347.386155">0.68</text>
+   </g>
+   <g id="text_403">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 347.386155)" x="568.468575" y="347.386155">0.72</text>
+   </g>
+   <g id="text_404">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 347.386155)" x="591.825766" y="347.386155">0.81</text>
+   </g>
+   <g id="text_405">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 347.386155)" x="615.182958" y="347.386155">0.76</text>
+   </g>
+   <g id="text_406">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 347.386155)" x="638.54015" y="347.386155">0.78</text>
+   </g>
+   <g id="text_407">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 347.386155)" x="661.897341" y="347.386155">0.81</text>
+   </g>
+   <g id="text_408">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 347.386155)" x="685.254533" y="347.386155">0.80</text>
+   </g>
+   <g id="text_409">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 347.386155)" x="708.611724" y="347.386155">0.73</text>
+   </g>
+   <g id="text_410">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 347.386155)" x="731.968916" y="347.386155">0.57</text>
+   </g>
+   <g id="text_411">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 347.386155)" x="755.326107" y="347.386155">0.85</text>
+   </g>
+   <g id="text_412">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 370.743346)" x="451.682617" y="370.743346">0.73</text>
+   </g>
+   <g id="text_413">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 370.743346)" x="475.039809" y="370.743346">0.60</text>
+   </g>
+   <g id="text_414">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 370.743346)" x="498.397" y="370.743346">0.69</text>
+   </g>
+   <g id="text_415">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 370.743346)" x="521.754192" y="370.743346">0.70</text>
+   </g>
+   <g id="text_416">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 370.743346)" x="545.111383" y="370.743346">0.63</text>
+   </g>
+   <g id="text_417">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 370.743346)" x="568.468575" y="370.743346">0.66</text>
+   </g>
+   <g id="text_418">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 370.743346)" x="591.825766" y="370.743346">0.81</text>
+   </g>
+   <g id="text_419">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 370.743346)" x="615.182958" y="370.743346">0.71</text>
+   </g>
+   <g id="text_420">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 370.743346)" x="638.54015" y="370.743346">0.74</text>
+   </g>
+   <g id="text_421">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 370.743346)" x="661.897341" y="370.743346">0.80</text>
+   </g>
+   <g id="text_422">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 370.743346)" x="685.254533" y="370.743346">0.76</text>
+   </g>
+   <g id="text_423">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 370.743346)" x="708.611724" y="370.743346">0.71</text>
+   </g>
+   <g id="text_424">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 370.743346)" x="731.968916" y="370.743346">0.48</text>
+   </g>
+   <g id="text_425">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 370.743346)" x="755.326107" y="370.743346">0.84</text>
+   </g>
+   <g id="text_426">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 394.100538)" x="451.682617" y="394.100538">0.51</text>
+   </g>
+   <g id="text_427">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 394.100538)" x="475.039809" y="394.100538">0.38</text>
+   </g>
+   <g id="text_428">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 394.100538)" x="498.397" y="394.100538">0.45</text>
+   </g>
+   <g id="text_429">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 394.100538)" x="521.754192" y="394.100538">0.49</text>
+   </g>
+   <g id="text_430">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 394.100538)" x="545.111383" y="394.100538">0.41</text>
+   </g>
+   <g id="text_431">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 394.100538)" x="568.468575" y="394.100538">0.46</text>
+   </g>
+   <g id="text_432">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 394.100538)" x="591.825766" y="394.100538">0.54</text>
+   </g>
+   <g id="text_433">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 394.100538)" x="615.182958" y="394.100538">0.52</text>
+   </g>
+   <g id="text_434">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 394.100538)" x="638.54015" y="394.100538">0.52</text>
+   </g>
+   <g id="text_435">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 394.100538)" x="661.897341" y="394.100538">0.54</text>
+   </g>
+   <g id="text_436">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 394.100538)" x="685.254533" y="394.100538">0.53</text>
+   </g>
+   <g id="text_437">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 394.100538)" x="708.611724" y="394.100538">0.48</text>
+   </g>
+   <g id="text_438">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 394.100538)" x="731.968916" y="394.100538">0.56</text>
+   </g>
+   <g id="text_439">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 394.100538)" x="755.326107" y="394.100538">0.74</text>
+   </g>
+   <g id="text_440">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 451.682617, 417.45773)" x="451.682617" y="417.45773">0.73</text>
+   </g>
+   <g id="text_441">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.039809, 417.45773)" x="475.039809" y="417.45773">0.60</text>
+   </g>
+   <g id="text_442">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 498.397, 417.45773)" x="498.397" y="417.45773">0.72</text>
+   </g>
+   <g id="text_443">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 521.754192, 417.45773)" x="521.754192" y="417.45773">0.74</text>
+   </g>
+   <g id="text_444">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.111383, 417.45773)" x="545.111383" y="417.45773">0.61</text>
+   </g>
+   <g id="text_445">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 568.468575, 417.45773)" x="568.468575" y="417.45773">0.66</text>
+   </g>
+   <g id="text_446">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 591.825766, 417.45773)" x="591.825766" y="417.45773">0.77</text>
+   </g>
+   <g id="text_447">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 615.182958, 417.45773)" x="615.182958" y="417.45773">0.71</text>
+   </g>
+   <g id="text_448">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 638.54015, 417.45773)" x="638.54015" y="417.45773">0.73</text>
+   </g>
+   <g id="text_449">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 661.897341, 417.45773)" x="661.897341" y="417.45773">0.76</text>
+   </g>
+   <g id="text_450">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 685.254533, 417.45773)" x="685.254533" y="417.45773">0.73</text>
+   </g>
+   <g id="text_451">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 708.611724, 417.45773)" x="708.611724" y="417.45773">0.67</text>
+   </g>
+   <g id="text_452">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 731.968916, 417.45773)" x="731.968916" y="417.45773">0.47</text>
+   </g>
+   <g id="text_453">
+    <text style="fill:#ffffff;font-family:Helvetica Neue;font-size:5.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 755.326107, 417.45773)" x="755.326107" y="417.45773">0.86</text>
+   </g>
+   <g id="text_454">
+    <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:13px;font-stretch:normal;font-style:normal;font-weight:600;text-anchor:middle;" transform="rotate(-0, 603.504362, 92.739659)" x="603.504362" y="92.739659">WhiStress</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_4">
+    <path clip-path="url(#p3aeff7b65c)" d="M 782.070703 452.565 
+L 782.070703 451.093711 
+L 782.070703 77.386289 
+L 782.070703 75.915 
+L 800.903203 75.915 
+L 800.903203 77.386289 
+L 800.903203 451.093711 
+L 800.903203 452.565 
+z
+" style="fill:none;"/>
+   </g>
+   <image height="376.92" id="imagea300d928a3" transform="scale(1 -1)translate(0 -376.92)" width="19.08" x="781.92" xlink:href="data:image/png;base64,
+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" y="-75.6"/>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_29">
+     <g id="line2d_69"/>
+     <g id="text_455">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 804.403203, 424.390781)" x="804.403203" y="424.390781">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_70"/>
+     <g id="text_456">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 804.403203, 361.615781)" x="804.403203" y="361.615781">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_71"/>
+     <g id="text_457">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 804.403203, 298.840781)" x="804.403203" y="298.840781">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_72"/>
+     <g id="text_458">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 804.403203, 236.065781)" x="804.403203" y="236.065781">0.7</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_73"/>
+     <g id="text_459">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 804.403203, 173.290781)" x="804.403203" y="173.290781">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_74"/>
+     <g id="text_460">
+      <text style="fill:#5d6a7b;font-family:Helvetica Neue;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 804.403203, 110.515781)" x="804.403203" y="110.515781">0.9</text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="text_461">
+   <text style="fill:#1a2433;font-family:Helvetica Neue;font-size:14px;font-stretch:normal;font-style:normal;font-weight:600;text-anchor:middle;" transform="rotate(-0, 412.103203, 17.433125)" x="412.103203" y="17.433125">Cross-lingual transfer (Pearson correlation)</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p110b803f7e">
+   <rect height="327.000682" width="327.000682" x="47.603203" y="100.739659"/>
+  </clipPath>
+  <clipPath id="pb90411ae8c">
+   <rect height="327.000682" width="327.000682" x="440.004021" y="100.739659"/>
+  </clipPath>
+  <clipPath id="p3aeff7b65c">
+   <rect height="376.65" width="18.8325" x="782.070703" y="75.915"/>
+  </clipPath>
+ </defs>
+</svg>
